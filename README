@@ -1,0 +1,18 @@
+Developed by Daniel Correia (danielbcorreia@gmail.com)
+
+You are free to use this code in any project you see fit, even though it would be nice to know about it ( out of curiosity :) ).
+This is a Arduino library for the 4511 IC (BCD to 7 Segments Display).
+
+# INSTALL
+Just drop the files on your arduino library folder, so the structure stays like this:
+- libraries
+  - BCDTo7Seg
+    - BCDTo7Seg.cpp
+	- BCDTo7Seg.h
+	- keywords.txt
+	- examples/
+	  - b4511_counter
+	    - b4511_counter.pde
+		
+Thanks!
+Daniel Correia
