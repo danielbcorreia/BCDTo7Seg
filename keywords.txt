@@ -1,0 +1,4 @@
+BCDTo7Seg	KEYWORD1
+
+attach	    KEYWORD2
+write	    KEYWORD2
