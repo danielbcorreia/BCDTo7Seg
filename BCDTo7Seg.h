@@ -1,8 +1,7 @@
 #ifndef BCDTo7Seg_H
 #define BCDTo7Seg_H
 
-#include "WProgram.h"
-
+#include "Arduino.h"
 
 class BCDTo7Seg {
 
